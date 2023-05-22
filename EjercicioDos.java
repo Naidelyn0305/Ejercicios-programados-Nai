@@ -4,7 +4,7 @@ public class Ejercicio3 {
     Scanner input = new Scanner(System.in);
     System.out.println("BIENVENIDO AL SISTEMA DE CALCULO DE VALORES");
     System.out.println("Por favor ingrese el radio del círculo: ");
-    double radio = input.nextDouble();;
+    double radio = input.nextDouble();
     double piC = 3.14; 
     double radeichon = radio*2;
     System.out.println("El radio elevado a la dos da : "+radeichon);
